@@ -1,0 +1,31 @@
+.main-img {
+    width: 300px;
+    height: 300px;
+    padding: 5px grey;
+    border: 2px solid grey;
+    margin: 25px;
+}
+.clearfix {
+  overflow: auto;
+}
+
+.img-thumbnails {
+ 
+  display: block;
+}
+
+.thumbnail {
+  height: 80px;
+  width: 80px;
+  margin: 5px;
+  border: none;
+  display: inline;
+}
+
+
+.ng-invalid.ng-dirty {
+    border-color: red;
+}
+.ng-valid.ng-dirty {
+    border-color: green;
+}
